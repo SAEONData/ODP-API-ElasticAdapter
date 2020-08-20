@@ -1,5 +1,7 @@
 # ODP API - Elasticsearch adapter
 
+***This project has been merged into [Open-Data-Platform](https://github.com/SAEONData/Open-Data-Platform).***
+
 Search metadata via the Elasticsearch search API, using the
 [Query DSL](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl.html).
 
